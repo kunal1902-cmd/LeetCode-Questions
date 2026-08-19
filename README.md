@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0013-roman-to-integer](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +58,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
