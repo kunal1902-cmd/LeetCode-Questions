@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0035-search-insert-position) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
