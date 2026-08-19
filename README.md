@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
