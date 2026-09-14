@@ -17,6 +17,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +73,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
