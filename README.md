@@ -18,6 +18,7 @@
 | [0027-remove-element](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0120-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,4 +82,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/kunal1902-cmd/LeetCode-Questions/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
